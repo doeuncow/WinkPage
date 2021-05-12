@@ -18,7 +18,7 @@
     "node-mysql": "^0.4.2",
     "node-schedule": "^1.3.0",
     "swipejs": "^2.2.11",
-    "swiper": "^4.3.3",
+    "swiper": "^6.5.1",
     "url": "^0.11.0"
   }
 }
